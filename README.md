@@ -35,5 +35,34 @@ To view this project locally, follow these steps:
    git clone https://github.com/AskianakiKon/Web-development-project.git
 
 ## Usage
-# The website is structured into three main HTML files, each with specific content:
+ The website is structured into three main HTML files, each with specific content:
+ 1. **home.html**
+   **Description:** The homepage introduces Ada Lovelace and provides links to other sections of the site.
+ 2. **contribution.html**
+   **Description:**  Contains detailed information about Ada Lovelace's scientific contributions and achievements. Includes a table summarizing her life and work.
+ 3. **relevancy.html**
+   **Description:** Discusses the relevance of Ada Lovelace's work in today's technological world, including its impact on modern science and communication.
+   ### How to exlpore
+   1. Open **home.html** in a web browser.
+   2. Use the navigation links to visit the other pages:
+    - "Contribution to Science"
+    - "The Technological Contribution Ada Has Made is Still Relevant Today"
+
+
 ## Project Structure
+The project directory contains the following files:
+### HTML Files
+- Home.html: Main entry point for the website.
+- contribution.html: Details on Ada Lovelace's scientific contributions.
+- relevancy.html: Content about the relevance of her work today.
+### CSS Files
+- styles.css: Contains styles for the website, including layout, typography, and colors. This file is linked to all HTML pages to maintain consistent styling.
+
+### License
+All rights reserved. This project was completed as part of my studies at Cardiff University.
+
+### Acknowledgments
+Special thanks to the following sources for providing valuable information about Ada Lovelace:
+- Mental Floss - Ada Lovelace: The First Computer Programmer
+- Computer History Museum - Ada Lovelace
+- Wikipedia - Ada Lovelace
