@@ -32,8 +32,8 @@ To view this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ada-lovelace-project.git
+   git clone https://github.com/AskianakiKon/Web-development-project.git
 
 ## Usage
-
+# The website is structured into three main HTML files, each with specific content:
 ## Project Structure
